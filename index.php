@@ -13,7 +13,7 @@
     <div class="list">
       <h1 class="header">To Do.</h1>
 
-      <ul>
+      <ul class="items">
         <li><span class="item">Pick up books</span></li>
         <li><span class="item">Learn PHP</span></li>
       </ul>
