@@ -18,7 +18,7 @@
           <span class="item">Pick up books</span>
           <a href="#" class="done-button">Mark as done</a>
         </li>
-        <li><span class="item">Learn PHP</span></li>
+        <li><span class="item done">Learn PHP</span></li>
       </ul>
 
       <form class="item-add" action="add.php" method="post">
