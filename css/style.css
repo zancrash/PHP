@@ -12,3 +12,28 @@ a{
   text-decoration: none;
   border-bottom: 1px dashed #363639;
 }
+
+/* List */
+.list{
+  background-color: #fff;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 3px;
+  box-shadow: 3px 3px 0 rgba(0,0,0,.1);
+}
+
+.list .header{
+  font-family: "Shadows Into Light Two", cursive;
+  margin: 0 0 10px 0;
+}
+
+/* Items */
+
+.items{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
