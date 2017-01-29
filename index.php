@@ -14,7 +14,10 @@
       <h1 class="header">To Do.</h1>
 
       <ul class="items">
-        <li><span class="item">Pick up books</span></li>
+        <li>
+          <span class="item">Pick up books</span>
+          <a href="#" class="done-button">Mark as done</a>
+        </li>
         <li><span class="item">Learn PHP</span></li>
       </ul>
 
